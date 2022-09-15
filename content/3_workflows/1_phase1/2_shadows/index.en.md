@@ -70,7 +70,7 @@ Click **Edit**.
 
 ### Step 12:
 We will set the desired threshold by adding a row.  Here we can check the readings of the sensors to see what baseline is reasonable, but some experimentation is probably needed.
-**"gas_alarm_threshold":8000**
+**"alarm_threshold":8000**
 Don't forget to add the comma on the line above.
 ![Step 12](/static/shadows/12.png)
 
